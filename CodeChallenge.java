@@ -15,8 +15,7 @@ class CodeChallenge {
            
              System.out.println(x);
              x = x + "A*";
-           	 offset = offset-1;
-         }
-         
+           offset = offset-1;
+         } 
     }
 }
